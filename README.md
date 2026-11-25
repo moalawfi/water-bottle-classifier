@@ -1,5 +1,3 @@
-# TeachableMachine-Water-Classification
-Image classification model to distinguish between 5Gallon and 500ML water bottles using Teachable Machine.
 # Water Bottle Classification using Teachable Machine 🧠💧
 
 This project uses Google's [Teachable Machine](https://teachablemachine.withgoogle.com/) to classify water bottle types based on images. Specifically, the model differentiates between **5 Gallon water bottles** and **500ml water bottles**.
@@ -39,7 +37,7 @@ You can export the model in multiple formats, such as:
 ## 🖼️ Sample Output
 
 On testing with a 5-gallon image, the model predicted:
-![Model Prediction Sample](https://github.com/963n/TeachableMachine-Water-Classification/raw/main/TeachableMachine-output.png)
+![Model Prediction Sample](TeachableMachine-output.png)
 -5Gallon: 100%
 -500ML: 0%
 
